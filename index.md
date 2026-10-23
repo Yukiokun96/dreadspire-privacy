@@ -97,7 +97,7 @@ The latest version will be published on this page with an updated revision date.
 ## 12. Contact Us
 
 **Game:** Dreadspire  
-**Developer:** [Developer Name]  
-**Contact email:** [Support Email Address]
+**Developer:** SheetBound Studio  
+**Contact email:** playstore.lystochok@gmail.com
 
 For privacy questions or requests, contact us at the email address above.
